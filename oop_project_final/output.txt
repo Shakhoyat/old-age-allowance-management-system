@@ -1,0 +1,498 @@
+
+What do you want to see:(list/profile)
+list
+What kind of list:(all/eligible/non_eligible)
+all
+
+Total candidate in the list
+32
+Eligible Candidate Name: Md. Abdul Rahman
+Date of Birth: 1950-05-15
+NID_no: 1
+gender: male
+Father's Name: Md. Abdul Hakim
+Mother's Name: Ayesha Rahman
+
+Eligible Candidate Name: Kamal Ahmed
+Date of Birth: 1952-12-10
+NID_no: 3
+gender: male
+Father's Name: Rina Ahmed
+Mother's Name: Sadia Ahmed
+
+Eligible Candidate Name: Farhana Akter
+Date of Birth: 1958-03-05
+NID_no: 4
+gender: female
+Father's Name: Md. Shahidul Islam
+Mother's Name: Rabeya Khatun
+
+Eligible Candidate Name: Sakib Khan
+Date of Birth: 1956-06-18
+NID_no: 5
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Nusrat Jahan
+
+Eligible Candidate Name: Fatema Begum
+Date of Birth: 1959-11-01
+NID_no: 8
+gender: female
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Nurul Islam
+Date of Birth: 1951-07-07
+NID_no: 9
+gender: male
+Father's Name: Md. Shahidul Haque
+Mother's Name: Anjuman Ara
+
+Eligible Candidate Name: Jannatul Ferdous
+Date of Birth: 1947-04-23
+NID_no: 10
+gender: female
+Father's Name: Md. Jahangir Alam
+Mother's Name: Nasrin Ferdousi
+
+Eligible Candidate Name: Abdul Rahman
+Date of Birth: 1953-10-09
+NID_no: 11
+gender: male
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Rahman
+
+Eligible Candidate Name: Mousumi Akter
+Date of Birth: 1957-01-30
+NID_no: 12
+gender: female
+Father's Name: Md. Shahidul Haque
+Mother's Name: Kohinur Akter
+
+Eligible Candidate Name: Taslima Begum
+Date of Birth: 1946-09-08
+NID_no: 14
+gender: male
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Sabina Akter
+Date of Birth: 1953-03-17
+NID_no: 16
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Rokeya Begum
+
+Eligible Candidate Name: Mohammad Ali
+Date of Birth: 1949-01-20
+NID_no: 20
+gender: male
+Father's Name: Md. Shahidul Haque
+Mother's Name: Anjuman Ara
+
+Eligible Candidate Name: Aisha Begum
+Date of Birth: 1956-06-07
+NID_no: 21
+gender: female
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Hasan Ahmed
+Date of Birth: 1956-12-09
+NID_no: 23
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Rehana Begum
+
+Eligible Candidate Name: Sabrina Akter
+Date of Birth: 1948-05-18
+NID_no: 24
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Rokeya Akter
+
+Eligible Candidate Name: Kabir Khan
+Date of Birth: 1951-10-14
+NID_no: 25
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Fatema Khan
+
+Eligible Candidate Name: Shahida Begum
+Date of Birth: 1953-07-22
+NID_no: 26
+gender: female
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Begum
+
+Eligible Candidate Name: Tasnim Akter
+Date of Birth: 1928-04-12
+NID_no: 28
+gender: female
+Father's Name: Mohammad Ali
+Mother's Name: Fatima Akter
+
+Eligible Candidate Name: Kamal Ahmed
+Date of Birth: 1942-02-20
+NID_no: 29
+gender: male
+Father's Name: Rina Ahmed
+Mother's Name: Sadia Ahmed
+
+Eligible Candidate Name: Farzana Begum
+Date of Birth: 1947-07-15
+NID_no: 30
+gender: female
+Father's Name: Md. Shahidul Islam
+Mother's Name: Rabeya Khatun
+
+Eligible Candidate Name: Nadia Ahmed
+Date of Birth: 1959-01-25
+NID_no: 32
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Ayesha Akter
+
+Non_Eligible Candidate Name: Tahmina Begum
+Date of Birth: 1965-08-22
+NID_no: 2
+gender: female
+Father's Name: Mohammad Ali
+Mother's Name: Fatima Akter
+
+Non_Eligible Candidate Name: Nadia Ahmed
+Date of Birth: 1996-09-27
+NID_no: 6
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Ayesha Akter
+
+Non_Eligible Candidate Name: Mohammad Ali Khan
+Date of Birth: 1958-02-14
+NID_no: 7
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Farida Khan
+
+Non_Eligible Candidate Name: Rahim Uddin
+Date of Birth: 1967-06-12
+NID_no: 13
+gender: male
+Father's Name: Md. Shahidul Islam
+Mother's Name: Parvin Akter
+
+Non_Eligible Candidate Name: Fahim Ahmed
+Date of Birth: 1958-12-25
+NID_no: 15
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Rehana Ahmed
+
+Non_Eligible Candidate Name: Hasanul Islam
+Date of Birth: 1964-08-03
+NID_no: 17
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Fatema Khatun
+
+Non_Eligible Candidate Name: Nadia Akter
+Date of Birth: 1967-11-11
+NID_no: 18
+gender: female
+Father's Name: Md. Jahangir Alam
+Mother's Name: Nasrin Akter
+
+Non_Eligible Candidate Name: Jahir Uddin
+Date of Birth: 1962-04-05
+NID_no: 19
+gender: male
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Begum
+
+Non_Eligible Candidate Name: Rashed Ahmed
+Date of Birth: 1960-09-02
+NID_no: 22
+gender: male
+Father's Name: Md. Shahidul Islam
+Mother's Name: Kohinur Ahmed
+
+Non_Eligible Candidate Name: Md. Abdul Rahman
+Date of Birth: 1975-11-05
+NID_no: 27
+gender: male
+Father's Name: Md. Abdul Hakim
+Mother's Name: Ayesha Rahman
+
+Non_Eligible Candidate Name: Sakina Khan
+Date of Birth: 1964-10-09
+NID_no: 31
+gender: female
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Nusrat Jahan
+
+Do you want to see more (Yes/No): Yes
+
+What do you want to see:(list/profile)
+list
+What kind of list:(all/eligible/non_eligible)
+eligible
+
+Total Number of eligible candidate in the list
+21
+Eligible Candidate Name: Md. Abdul Rahman
+Date of Birth: 1950-05-15
+NID_no: 1
+gender: male
+Father's Name: Md. Abdul Hakim
+Mother's Name: Ayesha Rahman
+
+Eligible Candidate Name: Kamal Ahmed
+Date of Birth: 1952-12-10
+NID_no: 3
+gender: male
+Father's Name: Rina Ahmed
+Mother's Name: Sadia Ahmed
+
+Eligible Candidate Name: Farhana Akter
+Date of Birth: 1958-03-05
+NID_no: 4
+gender: female
+Father's Name: Md. Shahidul Islam
+Mother's Name: Rabeya Khatun
+
+Eligible Candidate Name: Sakib Khan
+Date of Birth: 1956-06-18
+NID_no: 5
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Nusrat Jahan
+
+Eligible Candidate Name: Fatema Begum
+Date of Birth: 1959-11-01
+NID_no: 8
+gender: female
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Nurul Islam
+Date of Birth: 1951-07-07
+NID_no: 9
+gender: male
+Father's Name: Md. Shahidul Haque
+Mother's Name: Anjuman Ara
+
+Eligible Candidate Name: Jannatul Ferdous
+Date of Birth: 1947-04-23
+NID_no: 10
+gender: female
+Father's Name: Md. Jahangir Alam
+Mother's Name: Nasrin Ferdousi
+
+Eligible Candidate Name: Abdul Rahman
+Date of Birth: 1953-10-09
+NID_no: 11
+gender: male
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Rahman
+
+Eligible Candidate Name: Mousumi Akter
+Date of Birth: 1957-01-30
+NID_no: 12
+gender: female
+Father's Name: Md. Shahidul Haque
+Mother's Name: Kohinur Akter
+
+Eligible Candidate Name: Taslima Begum
+Date of Birth: 1946-09-08
+NID_no: 14
+gender: male
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Sabina Akter
+Date of Birth: 1953-03-17
+NID_no: 16
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Rokeya Begum
+
+Eligible Candidate Name: Mohammad Ali
+Date of Birth: 1949-01-20
+NID_no: 20
+gender: male
+Father's Name: Md. Shahidul Haque
+Mother's Name: Anjuman Ara
+
+Eligible Candidate Name: Aisha Begum
+Date of Birth: 1956-06-07
+NID_no: 21
+gender: female
+Father's Name: Kamal Uddin Ahmed
+Mother's Name: Nasima Begum
+
+Eligible Candidate Name: Hasan Ahmed
+Date of Birth: 1956-12-09
+NID_no: 23
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Rehana Begum
+
+Eligible Candidate Name: Sabrina Akter
+Date of Birth: 1948-05-18
+NID_no: 24
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Rokeya Akter
+
+Eligible Candidate Name: Kabir Khan
+Date of Birth: 1951-10-14
+NID_no: 25
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Fatema Khan
+
+Eligible Candidate Name: Shahida Begum
+Date of Birth: 1953-07-22
+NID_no: 26
+gender: female
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Begum
+
+Eligible Candidate Name: Tasnim Akter
+Date of Birth: 1928-04-12
+NID_no: 28
+gender: female
+Father's Name: Mohammad Ali
+Mother's Name: Fatima Akter
+
+Eligible Candidate Name: Kamal Ahmed
+Date of Birth: 1942-02-20
+NID_no: 29
+gender: male
+Father's Name: Rina Ahmed
+Mother's Name: Sadia Ahmed
+
+Eligible Candidate Name: Farzana Begum
+Date of Birth: 1947-07-15
+NID_no: 30
+gender: female
+Father's Name: Md. Shahidul Islam
+Mother's Name: Rabeya Khatun
+
+Eligible Candidate Name: Nadia Ahmed
+Date of Birth: 1959-01-25
+NID_no: 32
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Ayesha Akter
+
+Do you want to see more (Yes/No): Yes
+
+What do you want to see:(list/profile)
+list
+What kind of list:(all/eligible/non_eligible)
+non_eligible
+
+Total Number of non_eligible candidate in the list
+11
+Non_Eligible Candidate Name: Tahmina Begum
+Date of Birth: 1965-08-22
+NID_no: 2
+gender: female
+Father's Name: Mohammad Ali
+Mother's Name: Fatima Akter
+
+Non_Eligible Candidate Name: Nadia Ahmed
+Date of Birth: 1996-09-27
+NID_no: 6
+gender: female
+Father's Name: Md. Shahidul Alam
+Mother's Name: Ayesha Akter
+
+Non_Eligible Candidate Name: Mohammad Ali Khan
+Date of Birth: 1958-02-14
+NID_no: 7
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Farida Khan
+
+Non_Eligible Candidate Name: Rahim Uddin
+Date of Birth: 1967-06-12
+NID_no: 13
+gender: male
+Father's Name: Md. Shahidul Islam
+Mother's Name: Parvin Akter
+
+Non_Eligible Candidate Name: Fahim Ahmed
+Date of Birth: 1958-12-25
+NID_no: 15
+gender: male
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Rehana Ahmed
+
+Non_Eligible Candidate Name: Hasanul Islam
+Date of Birth: 1964-08-03
+NID_no: 17
+gender: male
+Father's Name: Md. Abdul Aziz
+Mother's Name: Fatema Khatun
+
+Non_Eligible Candidate Name: Nadia Akter
+Date of Birth: 1967-11-11
+NID_no: 18
+gender: female
+Father's Name: Md. Jahangir Alam
+Mother's Name: Nasrin Akter
+
+Non_Eligible Candidate Name: Jahir Uddin
+Date of Birth: 1962-04-05
+NID_no: 19
+gender: male
+Father's Name: Md. Nasir Uddin
+Mother's Name: Rehana Begum
+
+Non_Eligible Candidate Name: Rashed Ahmed
+Date of Birth: 1960-09-02
+NID_no: 22
+gender: male
+Father's Name: Md. Shahidul Islam
+Mother's Name: Kohinur Ahmed
+
+Non_Eligible Candidate Name: Md. Abdul Rahman
+Date of Birth: 1975-11-05
+NID_no: 27
+gender: male
+Father's Name: Md. Abdul Hakim
+Mother's Name: Ayesha Rahman
+
+Non_Eligible Candidate Name: Sakina Khan
+Date of Birth: 1964-10-09
+NID_no: 31
+gender: female
+Father's Name: Md. Rafiqul Islam
+Mother's Name: Nusrat Jahan
+
+Do you want to see more (Yes/No): Yes
+
+What do you want to see:(list/profile)
+profile
+Enter Name:
+ Md. Abdul Rahman
+Enter NID Number:
+ 1
+Enter gender:
+ male
+Enter date of birth (yyyy-mm-dd):
+ 1950-05-15
+
+
+Type: ELIGIBLE CANDIDATE
+Eligible Candidate Name: Md. Abdul Rahman
+Date of Birth: 1950-05-15
+NID_no: 1
+gender: male
+Father's Name: Md. Abdul Hakim
+Mother's Name: Ayesha Rahman
+
+Do you want to see more (Yes/No): No
+skt_pie@Hercules:/media/skt_pie/New Volume/academics--1.2/cse1206/oop_project_final$ 
